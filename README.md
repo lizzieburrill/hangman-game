@@ -21,4 +21,4 @@ A classic Hangman game built with React.
 ## Technologies Used
 - React (Create React App)
 - CSS for styling
-- SVG for dynamic drawing
+- CSS for dynamic drawing
